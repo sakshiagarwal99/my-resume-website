@@ -33,12 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Management of Technology
+      institution: New York University
+      year: Present
+    - course: BTech in Electronics and Telecommunication Engineering
+      institution: Vishwakarma Institute of Information Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
