@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sakshi Agarwal
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sakshi
+last_name: Agarwal
 
 # Status emoji
 status:
