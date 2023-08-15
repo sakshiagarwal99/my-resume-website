@@ -78,4 +78,3 @@ highlight_name: true
 ---
 
 Sakshi Agarwal is a good student
-{style="text-align: justify;"}
