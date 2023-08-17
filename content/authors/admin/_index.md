@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics
+  - Machine Learning
+  - Strategy and Technology
 
 # Education to show in About widget
 education:
@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sakshia09
     label: Follow me on Twitter
     display:
       header: true
@@ -62,7 +62,7 @@ social:
     link: https://github.com/sakshiagarwal99
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sakshiagrwl/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
