@@ -78,4 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Sakshi Agarwal is a good student
+Welcome to my professional corner! I'm Sakshi Agarwal, a passionate and results-driven aspiring Data Analyst with a keen eye for extracting insights from complex datasets. 📊
+I specialize in extracting actionable insights from data using Python, R, SQL, and visualization tools like Power BI and Tableau. My goal is to contribute my analytical skills to a forward-thinking organization. I am ready to take on new challenges and make a data-driven impact. Let's connect and explore opportunities!
