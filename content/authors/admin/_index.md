@@ -53,8 +53,6 @@ social:
     icon_pack: fab
     link: https://twitter.com/sakshia09
     label: Follow me on Twitter
-    display:
-      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/sakshiagarwal99
