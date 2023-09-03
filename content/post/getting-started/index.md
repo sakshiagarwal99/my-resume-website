@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Confronting Plastic Pollution, My Global Impact Sprint Experience
+subtitle: A Journey Towards Sustainability. Tackling Global Plastic Pollution in the Global Impact Sprint.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Alongside 15 students from prestigious institutions worldwide, I embarked on a five-day mission to combat global plastic pollution. This article chronicles my journey, from in-depth stakeholder interviews to UN Headquarters visits and prototype testing. The experience emphasized the power of collaboration and active contribution to sustainability. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-07-07'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-07-07'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,14 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Volunteer
+  - GIS Alumni
+  
 
 categories:
-  - Demo
-  - 教程
+  - Sustainability
 ---
 
 ```python
