@@ -6,10 +6,6 @@ title: Sakshi Agarwal
 first_name: Sakshi
 last_name: Agarwal
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -48,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:sakshiarwl09@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sakshia09
@@ -73,5 +69,10 @@ email: 'sakshiarwl09@gmail.com'
 highlight_name: true
 ---
 
+<p style='text-align: justify;'>
 Welcome to my professional corner! I'm Sakshi Agarwal, a passionate and results-driven aspiring Data Analyst with a keen eye for extracting insights from complex datasets. 📊
+</p>
+
+<p style='text-align: justify;'>
 I specialize in extracting actionable insights from data using Python, R, SQL, and visualization tools like Power BI and Tableau. My goal is to contribute my analytical skills to a forward-thinking organization. I am ready to take on new challenges and make a data-driven impact. Let's connect and explore opportunities!
+</p>
