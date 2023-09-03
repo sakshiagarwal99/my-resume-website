@@ -53,9 +53,8 @@ categories:
 
 [!["Sprint" by Jake Knapp](https://media.licdn.com/dms/image/D4E12AQGR6r96-_SpuA/article-inline_image-shrink_1500_2232/0/1688768318846?e=1699488000&v=beta&t=VZqoB1GAfSGXNHJvbFCamfBj6-MHm8NPwG2ITXz8GmI)](https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=58WKP983QhynRa%252BSiIZQOw%253D%253D/?trackingId=58WKP983QhynRa%2BSiIZQOw%3D%3D)
 
-<p style='text-align: justify;'>
 🗺️ **_Day 1: Map:_** This day presented us with an extraordinary opportunity to conduct in-depth interviews with key stakeholders in the field. We sought to gain a comprehensive understanding of the current situation, and their primary concerns, and identify countries at the forefront of circular economy efforts. Armed with this valuable insight, we defined our target stakeholders as a team, along with the questions we aimed to address by the end of the week.
-</p>
+
 
 <p style='text-align: justify;'>
 I was taken aback by the noteworthy endeavors of developing nations like India and the Philippines in embracing a circular economy, while the West has made remarkable strides in waste management.
@@ -66,7 +65,7 @@ I was happy to uncover the existence of remarkable companies like Ligo, a digita
 </p>
 
 <p style='text-align: justify;'>
-✍ **_Day 2: Sketch:_** A day dedicated to profound contemplation and brainstorming, we delved into meticulous research of existing competing solutions, seeking to improve upon them. As the day drew to a close, each team member sketched their solution in intricate detail, setting the stage for further discussion.
+✍ Day 2: Sketch: A day dedicated to profound contemplation and brainstorming, we delved into meticulous research of existing competing solutions, seeking to improve upon them. As the day drew to a close, each team member sketched their solution in intricate detail, setting the stage for further discussion.
 </p>
 
 <p style='text-align: justify;'>
