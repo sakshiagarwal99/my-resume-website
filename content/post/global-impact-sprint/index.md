@@ -54,7 +54,7 @@ categories:
 [!["Sprint" by Jake Knapp](https://media.licdn.com/dms/image/D4E12AQGR6r96-_SpuA/article-inline_image-shrink_1500_2232/0/1688768318846?e=1699488000&v=beta&t=VZqoB1GAfSGXNHJvbFCamfBj6-MHm8NPwG2ITXz8GmI)](https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=58WKP983QhynRa%252BSiIZQOw%253D%253D/?trackingId=58WKP983QhynRa%2BSiIZQOw%3D%3D)
 
 <p style='text-align: justify;'>
-🗺️ <b>Day 1: Map:</b> This day presented us with an extraordinary opportunity to conduct in-depth interviews with key stakeholders in the field. We sought to gain a comprehensive understanding of the current situation, and their primary concerns, and identify countries at the forefront of circular economy efforts. Armed with this valuable insight, we defined our target stakeholders as a team, along with the questions we aimed to address by the end of the week.
+🗺️ Day 1: Map: This day presented us with an extraordinary opportunity to conduct in-depth interviews with key stakeholders in the field. We sought to gain a comprehensive understanding of the current situation, and their primary concerns, and identify countries at the forefront of circular economy efforts. Armed with this valuable insight, we defined our target stakeholders as a team, along with the questions we aimed to address by the end of the week.
 </p>
 
 <p style='text-align: justify;'>
@@ -66,7 +66,7 @@ I was happy to uncover the existence of remarkable companies like Ligo, a digita
 </p>
 
 <p style='text-align: justify;'>
-✍ <b>Day 2: Sketch:</b> A day dedicated to profound contemplation and brainstorming, we delved into meticulous research of existing competing solutions, seeking to improve upon them. As the day drew to a close, each team member sketched their solution in intricate detail, setting the stage for further discussion.
+✍ Day 2: Sketch: A day dedicated to profound contemplation and brainstorming, we delved into meticulous research of existing competing solutions, seeking to improve upon them. As the day drew to a close, each team member sketched their solution in intricate detail, setting the stage for further discussion.
 </p>
 
 <p style='text-align: justify;'>
@@ -74,19 +74,19 @@ Graciously, the organizing team at #HPI arranged a visit to the United Nations H
 </p>
 
 <p style='text-align: justify;'>
-🌏 <b>Day 3: Decide:</b> Collectively, we deliberated on the most promising features from each sketch, piecing them together into a new comprehensive sketch. We then crafted a compelling storyboard, carefully selecting the ideal persona to effectively communicate our solution.
+🌏 Day 3: Decide: Collectively, we deliberated on the most promising features from each sketch, piecing them together into a new comprehensive sketch. We then crafted a compelling storyboard, carefully selecting the ideal persona to effectively communicate our solution.
 </p>
 
 ![Storyboarding](https://media.licdn.com/dms/image/D4E12AQEtORaYNDov8A/article-inline_image-shrink_1000_1488/0/1688770314431?e=1699488000&v=beta&t=z35o8stlcusiZy-715SKNqJj00mNyPb8MDtHZhvGIQY)
 
 <p style='text-align: justify;'>
-💻 <b>Day 4: Prototype:</b> We built a high-fidelity prototype on #figma, simulating our product to prepare for testing with customers the following day.
+💻 Day 4: Prototype: We built a high-fidelity prototype on #figma, simulating our product to prepare for testing with customers the following day.
 </p>
 
 <p style='text-align: justify;'>
-🧐 <b>Day 5: Test:</b> The moment of truth arrived as we conducted 1:1 interviews, subjecting our prototype to rigorous scrutiny. These crucial interactions allowed us to validate our assumptions and gather invaluable feedback, which we used to iterate and refine our prototype for the final presentation.
+🧐 Day 5: Test: The moment of truth arrived as we conducted 1:1 interviews, subjecting our prototype to rigorous scrutiny. These crucial interactions allowed us to validate our assumptions and gather invaluable feedback, which we used to iterate and refine our prototype for the final presentation.
 </p>
 
 <p style='text-align: justify;'>
-💙 <u>In conclusion</u>, this experience stands as one of the most remarkable I have encountered in New York City. Collaborating with individuals from diverse cultural backgrounds, all working harmoniously towards a shared goal, imparted invaluable lessons that will resonate with me forever. I am profoundly grateful for this opportunity to go beyond mere conversations about #sustainability and actively contribute to something that holds the power to transform our world for the better.
+💙 In conclusion, this experience stands as one of the most remarkable I have encountered in New York City. Collaborating with individuals from diverse cultural backgrounds, all working harmoniously towards a shared goal, imparted invaluable lessons that will resonate with me forever. I am profoundly grateful for this opportunity to go beyond mere conversations about #sustainability and actively contribute to something that holds the power to transform our world for the better.
 </p>
