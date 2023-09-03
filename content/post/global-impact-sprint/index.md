@@ -1,5 +1,6 @@
 ---
 title: Confronting Plastic Pollution, My Global Impact Sprint Experience
+link: https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=xdpYzyyaTvS8AXBEMIWVoQ%253D%253D/?trackingId=xdpYzyyaTvS8AXBEMIWVoQ%3D%3D
 subtitle: A Journey Towards Sustainability. Tackling Global Plastic Pollution in the Global Impact Sprint.
 
 # Summary for listings and search engines
