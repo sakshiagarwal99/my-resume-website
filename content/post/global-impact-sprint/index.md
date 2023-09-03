@@ -1,6 +1,5 @@
 ---
 title: Confronting Plastic Pollution, My Global Impact Sprint Experience
-link: https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=xdpYzyyaTvS8AXBEMIWVoQ%253D%253D/?trackingId=xdpYzyyaTvS8AXBEMIWVoQ%3D%3D
 subtitle: A Journey Towards Sustainability. Tackling Global Plastic Pollution in the Global Impact Sprint.
 
 # Summary for listings and search engines
@@ -40,71 +39,58 @@ tags:
 categories:
   - Sustainability
 ---
+<p style='text-align: justify;'>
+🎓 I had the incredible honor of representing my Department of Technology Management & Innovation at NYU Tandon School of Engineering in this year's #GlobalImpactSprint hosted by the Hasso Plattner Institute.
+</p>
 
-```python
-import libr
-print('hello')
-```
+<p style='text-align: justify;'>
+🌱 Fifteen outstanding students were carefully selected from prestigious institutions such as New York University, Massachusetts Institute of Technology, Babson College, and Tecnológico de Monterrey. Our mission was to devise a solution that connects local stakeholders and initiatives crucial to resolving the global plastic pollution crisis, aligning with the United Nations Sustainable Development Goal 14: Life Under Water.
+</p>
 
-## Overview
+<p style='text-align: justify;'>
+🏃 We were granted a total of 100 hours spread over five days, adhering to the #DesignSprint process outlined in Jake Knapp's influential book, #Sprint.
+</p>
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+[!["Sprint" by Jake Knapp](https://media.licdn.com/dms/image/D4E12AQGR6r96-_SpuA/article-inline_image-shrink_1500_2232/0/1688768318846?e=1699488000&v=beta&t=VZqoB1GAfSGXNHJvbFCamfBj6-MHm8NPwG2ITXz8GmI)](https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=58WKP983QhynRa%252BSiIZQOw%253D%253D/?trackingId=58WKP983QhynRa%2BSiIZQOw%3D%3D)
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+<p style='text-align: justify;'>
+🗺️ **_Day 1: Map:_** This day presented us with an extraordinary opportunity to conduct in-depth interviews with key stakeholders in the field. We sought to gain a comprehensive understanding of the current situation, and their primary concerns, and identify countries at the forefront of circular economy efforts. Armed with this valuable insight, we defined our target stakeholders as a team, along with the questions we aimed to address by the end of the week.
+</p>
 
-## Get Started
+<p style='text-align: justify;'>
+I was taken aback by the noteworthy endeavors of developing nations like India and the Philippines in embracing a circular economy, while the West has made remarkable strides in waste management.
+</p>
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+<p style='text-align: justify;'>
+I was happy to uncover the existence of remarkable companies like Ligo, a digital ecosystem platform driving scientific innovation in sustainability, and Biointellectus, an industry leader in bioplastics. Engaging with professionals from these organizations allowed me to glean profound insights. In particular, @Ana Patricia Ortiz Ríos, the CEO of Ligo, imparted wisdom that has left an indelible mark on me. She astutely emphasized that plastic should not be vilified as a monster but rather it is an incredible product. However, our attention should be directed towards optimizing its consumption and implementing improved waste management strategies.
+</p>
 
-## Crowd-funded open-source software
+<p style='text-align: justify;'>
+✍ **_Day 2: Sketch:_** A day dedicated to profound contemplation and brainstorming, we delved into meticulous research of existing competing solutions, seeking to improve upon them. As the day drew to a close, each team member sketched their solution in intricate detail, setting the stage for further discussion.
+</p>
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+<p style='text-align: justify;'>
+Graciously, the organizing team at #HPI arranged a visit to the United Nations Headquarters in #newyorkcity. Standing in the same room as esteemed dignitaries working on global issues was an immensely enriching experience, etched forever in my memory.
+</p>
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
+<p style='text-align: justify;'>
+🌏 **_Day 3: Decide:_** Collectively, we deliberated on the most promising features from each sketch, piecing them together into a new comprehensive sketch. We then crafted a compelling storyboard, carefully selecting the ideal persona to effectively communicate our solution.
+</p>
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+![Storyboarding](https://media.licdn.com/dms/image/D4E12AQEtORaYNDov8A/article-inline_image-shrink_1000_1488/0/1688770314431?e=1699488000&v=beta&t=z35o8stlcusiZy-715SKNqJj00mNyPb8MDtHZhvGIQY)
 
-## Ecosystem
+<p style='text-align: justify;'>
+💻 **_Day 4: Prototype:_** We built a high-fidelity prototype on #figma, simulating our product to prepare for testing with customers the following day.
+</p>
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+<p style='text-align: justify;'>
+🧐 **_Day 5: Test:_** The moment of truth arrived as we conducted 1:1 interviews, subjecting our prototype to rigorous scrutiny. These crucial interactions allowed us to validate our assumptions and gather invaluable feedback, which we used to iterate and refine our prototype for the final presentation.
+</p>
 
-## Inspiration
+<p style='text-align: justify;'>
+💙 In conclusion, this experience stands as one of the most remarkable I have encountered in New York City. Collaborating with individuals from diverse cultural backgrounds, all working harmoniously towards a shared goal, imparted invaluable lessons that will resonate with me forever. I am profoundly grateful for this opportunity to go beyond mere conversations about #sustainability and actively contribute to something that holds the power to transform our world for the better.
+</p>
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
 
-## Features
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+[def]: https://media.licdn.com/dms/image/D4E12AQEtORaYNDov8A/article-inline_image-shrink_1000_1488/0/1688770314431?e=1699488000&v=beta&t=z35o8stlcusiZy-715SKNqJj00mNyPb8MDtHZhvGIQY
