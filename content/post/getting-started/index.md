@@ -6,7 +6,7 @@ subtitle: A Journey Towards Sustainability. Tackling Global Plastic Pollution in
 summary: Alongside 15 students from prestigious institutions worldwide, I embarked on a five-day mission to combat global plastic pollution. This article chronicles my journey, from in-depth stakeholder interviews to UN Headquarters visits and prototype testing. The experience emphasized the power of collaboration and active contribution to sustainability. 
 
 # Link this post with a project
-projects: []
+link: https://www.linkedin.com/pulse/confronting-plastic-pollution-my-globalimpactsprint-sakshi-agarwal%3FtrackingId=xdpYzyyaTvS8AXBEMIWVoQ%253D%253D/?trackingId=xdpYzyyaTvS8AXBEMIWVoQ%3D%3D
 
 # Date published
 date: '2023-07-07'
