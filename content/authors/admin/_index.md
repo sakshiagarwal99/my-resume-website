@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naren Khatwani
+title: Sakshi Agarwal
 
 # Full name (for SEO)
 first_name: Sakshi
