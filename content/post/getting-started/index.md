@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://media.licdn.com/dms/image/D4E12AQELDUDNPOCOHg/article-cover_image-shrink_600_2000/0/1688768788141?e=1699488000&v=beta&t=-OfsSVt4JCKOpta-jdH4ptEdl_TJ3tPB2SeegrO5UAI)'
   focal_point: ''
   placement: 2
   preview_only: false
