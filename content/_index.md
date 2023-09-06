@@ -31,7 +31,11 @@ sections:
           date_start: '2021-11-01'
           date_end: '2022-01-31'
           description: |2-
-              Responsibilities include:
+              * Developed and executed SQL queries on Facebook Ads data for Superhero U, revealing broken links and misplaced tracking codes that led to a 15% boost in website traffic.
+              * Upgraded reporting processes by developing a Tableau dashboard, enabling real-time tracking of essential business KPIs.
+              * Addressed key stakeholders to report traffic drop, persuading them to implement website changes and SEO
+              based on the identified user behavior.
+
 
               * Analysing
               * Modelling
