@@ -26,7 +26,7 @@ sections:
         - title: Data Analyst Intern  
           company: Saint Louis University
           company_url: ''
-          company_logo: org-gc
+          company_logo:
           location: Remote
           date_start: '2021-11-01'
           date_end: '2022-01-31'
@@ -36,18 +36,21 @@ sections:
               * Addressed key stakeholders to report traffic drop, persuading them to implement website changes and SEO
               based on the identified user behavior.
 
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Business Analyst
           company: Dentsu - Merkle India
           company_url: ''
-          company_logo: org-x
+          company_logo:
           location: India
           date_start: '2021-02-01'
           date_end: '2021-09-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+          * Initiated festive frame marketing strategies for B2B clients, driving a 24% revenue increase.
+          * Optimized app install campaigns for client’s brand through targeted ad revisions, resulting in 300K+ app installs.
+          * Utilized Google Analytics to analyze e-commerce data, conducted A/B testing on product groups, driving a
+          20% QoQ increase in essential KPI, conversion rate.
+          * Conceptualized and executed an ETL process to handle and process 1M+ advertising records daily.
+          * Led a team of four interns to develop an automation system using Selenium with Python and MS Excel
+          VBA, significantly reducing manual workload by 30%
     design:
       columns: '2'
   - block: accomplishments
