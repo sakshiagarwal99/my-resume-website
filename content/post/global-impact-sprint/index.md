@@ -80,7 +80,7 @@ Graciously, the organizing team at #HPI arranged a visit to the United Nations H
 ![Storyboarding](https://media.licdn.com/dms/image/D4E12AQEtORaYNDov8A/article-inline_image-shrink_1000_1488/0/1688770314431?e=1699488000&v=beta&t=z35o8stlcusiZy-715SKNqJj00mNyPb8MDtHZhvGIQY)
 
 <p style='text-align: justify;'>
-💻 Day 4: Prototype: We built a high-fidelity prototype on #figma, simulating our product to prepare for testing with customers the following day. Comeone add this to my website.
+💻 Day 4: Prototype: We built a high-fidelity prototype on #figma, simulating our product to prepare for testing with customers the following day. Comeone add this to my website please.
 </p>
 
 <p style='text-align: justify;'>
